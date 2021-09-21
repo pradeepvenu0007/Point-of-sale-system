@@ -104,6 +104,28 @@ run project as spring boot application
 
 open browser open localhost4200 and start using application
 
+
+## Roles / Responsibilities 
+ 
+
+My role in this project was to develop the Vendor part of the application.
+
+- implemented List interface while adding vendor od the shop
+
+- Used Angular routing for page navigation
+
+- Used JPA repositories standard way of persisting Java objects into relational databases.
+
+- Created normalization achived with the database reorganizing data in a database so that it meets two basic requirements-no redundancy of data, all related data items are stored together.
+
+-  Created Angular components as the most basic UI building block of an Angular app..
+
+-  Created Angular components as the most basic UI building block of an Angular app.
+
+- Used Spring boot annotation to mark a configuration class that declares one or more @Bean methods and also triggers auto-configuration and component scanning
+
+- Used Dependency Injection which is a fundamental aspect of the Spring framework, through which the Spring container “injects” objects into other objects or “dependencies”.
+
 ## License
 
 This project uses the following license: [Pradeep K V]https://github.com/pradeepvenu0007).

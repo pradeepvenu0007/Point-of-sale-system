@@ -89,11 +89,20 @@ To-do list:
 git clone https://github.com/pradeepvenu0007/Point-of-sale-system/tree/main Front-end
 
 open cmd
+
 navigate to project file
+
 run npm install
-run ng server command Back-end
+
+run ng server command 
+
+Back-end
+
 open project in spring boot suite
+
 run project as spring boot application
+
+open browser open localhost4200 and start using application
 
 ## License
 

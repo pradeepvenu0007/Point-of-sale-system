@@ -86,14 +86,14 @@ To-do list:
 - Admin - the system allows them to view sales insights - the admin can view products in high demand, products in low demand, total transactions this year.
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
+git clone https://github.com/pradeepvenu0007/Point-of-sale-system/tree/main Front-end
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-- All the `code` required to get started
-- Images of what it should look like
+open cmd
+navigate to project file
+run npm install
+run ng server command Back-end
+open project in spring boot suite
+run project as spring boot application
 
 ## License
 
